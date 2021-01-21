@@ -1,6 +1,5 @@
 1. The world wide web is the pages you see while online with a device whereas the internet is all of the connected  devices.
-2. The internet works by connecting many devices from around the world.
-
-3. A directory is the main area where things are stored.
-4. VCS benefits the user by keeping track of changes so that the user can see if the change negatively or positively impacted the work.
+2. The internet works by connecting many devices from around the world this is through networking.  Each of these networks then can connect to each other creating a larger connected system of devices.
+3. A directory is the main area where things are stored.  Subdirectories can be added to the main one to create more organization between files. It is basically like using a filing cabinet system but through a device such as a laptop.
+4. VCS benefits the user by keeping track of changes so that the user can see if the change negatively or positively impacted the work.  Many people may also work on the file at any time and it helps store all the different versions.
 6. My favorite kind of art is probably painting.
