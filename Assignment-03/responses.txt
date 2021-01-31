@@ -2,3 +2,6 @@
 2. A DNS or Domain Name Service relates to the IP address because it converts references to the IP address.
 3. A cookie is something that tracks your movements within the site and help you continue where you left off and remember other tid bits of information.
 4. 3 essential parts of a URL are the protocol, domain name, and the path.
+6. - Relearned how to embed images.
+- 3 essential parts of the URL.
+- Learned how to make headings and other elements in Markdowns.
