@@ -6,3 +6,5 @@ Week 2 Summary - This week I read through the basics of the internet, how direct
 Week 3 Summary -  This week we went over the basics of Markdown elements and created a few files in Atom.  I think markdown is interesting considering it is so different from html and other coding.  
 
 Week 4 Summary - This week we set up our first HTML and set up Github pages.  We also looked at how browsers work.
+
+Week 5 Summary - This week we looked at several other elements of the HTML.  We looked at what previous web pages looked like and we setup Github desktop and pushed our files straight from our desktop to github.
