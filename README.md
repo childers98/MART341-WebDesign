@@ -8,3 +8,6 @@ Week 3 Summary -  This week we went over the basics of Markdown elements and cre
 Week 4 Summary - This week we set up our first HTML and set up Github pages.  We also looked at how browsers work.
 
 Week 5 Summary - This week we looked at several other elements of the HTML.  We looked at what previous web pages looked like and we setup Github desktop and pushed our files straight from our desktop to github.  https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-05
+
+Week 6 Summary - This week we created an HTML with more unique HTML tags using a recipe.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-06
