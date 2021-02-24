@@ -11,3 +11,6 @@ Week 5 Summary - This week we looked at several other elements of the HTML.  We 
 
 Week 6 Summary - This week we created an HTML with more unique HTML tags using a recipe.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-06
+
+Week 7 Summary - This week we created an HTML that included tables and forms.  We worked with a company to put together things like their address and an image.  A major focus was the input options for forms and stylizing the table.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-07
