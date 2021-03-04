@@ -1,0 +1,3 @@
+1. "id" attributes are unique identifiers, "class" attributes are similar elements, "divs" are used to clarify and separate element groups, and "spans" offer organization and smaller blocks.
+2. Some of the advantages to using a service-hosted site is that it has code to embed.  It is also easy to debug and not limited to HTTP.  The disadvantage is that it only works when the application is running.
+3. The main challenge that I had this week is getting my YouTube video to show up. It doesn't appear to play and you have to go to YouTube's actual website to view it.  Otherwise the most difficult part was using my favorite style of paragraphing.
