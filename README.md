@@ -14,3 +14,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-06
 
 Week 7 Summary - This week we created an HTML that included tables and forms.  We worked with a company to put together things like their address and an image.  A major focus was the input options for forms and stylizing the table.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-07
+
+Week 8 Summary - This week we made a document that contained embedded elements like videos and audio using service hosted sites.  We also looked at images again.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-08
