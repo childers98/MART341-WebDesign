@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!--check iput after the <form> -->
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+
+    <meta name="author" content="Paige Childers">
+
+    <meta name="description" content="Contact Us">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact Us</title>
+      <style media="screen">
+        body {
+          background-color: slategray;
+
+        }
+        .container {
+        background-color: lightslategray;
+        width: 600px;
+        margin: auto;
+        padding: 75px;
+        border:  ;
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+    <div id="contact-us" class=" container">
+      <h2>Contact Us</h2>
+      <p>Contanct us by email at <a href="mailto:info@instructables.com">info@instructables.com</a>
+      <form action="http://www.example.com/subscribe.php" method="get" id="subscribe-form" class="basic-forms">
+        <fieldset>
+          <legend>Account Creation</legend>
+          <label>
+            <p>Email Address: <input type="text" name="email" placeholder="hello@yahoo.com"/> </p>
+            <p> Password: <input type="password" name="password" id="user-password" placeholder="example123"/> </p>
+
+            I Want to Subscribe to...
+            <br />
+            <input type="checkbox" name="subscribe" value="newsletter" /> Newsletter
+            <br />
+            <input type="checkbox" name="subscribe" value="coupons/sales" /> Coupons & Sales
+            <br />
+            <input type="checkbox" name="subscribe" value="none" /> None
+            <br />
+            <br />
+            <input type="submit" value="Submit" />
+          </label>
+      </form>
+
+    </div>
+
+    <div id="navigation" class="container">
+      <nav id="main-menu">
+        <a href="../index.html">Homepage</a> &vert;
+        <a href="./about.html">About</a>
+        <!-- &vert; makes divisions-->  <!--also &middot for bullet points and &nbsp for additonal spaces-->
+      </nav>
+    </div>
+
+  </body>
+
+</html>
