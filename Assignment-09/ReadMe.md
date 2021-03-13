@@ -1,9 +1,3 @@
-Styling of lists?
-A video of the tutorial - about.html
-semantic and structural elements
-
-
-
 1. Learning HTML was actually pretty fun.  At the beginning a lot of it was just a refresher
 but then I got more interesting information on how exactly things need to be formatted and why.  Old stuff that was mostly review was adding images and linking things to the site.  New stuff mostly included tables and embedding videos and songs.  I didn't find anything in HTML to hard to learn because there is a lot of information out there on this stuff.
 2. With CSS I am interested in learning how to control more elements of styling on an individual level because sometimes it was hard to continuously have to apply different elements separately to things so that it didn't affect things that I didn't want it to.
