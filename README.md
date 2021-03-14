@@ -17,3 +17,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-07
 
 Week 8 Summary - This week we made a document that contained embedded elements like videos and audio using service hosted sites.  We also looked at images again.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-08
+
+Week 9 Summary - For this week we linked 3 html pages together and showcased everything that we learned in HTML, from tables to styling.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-09
