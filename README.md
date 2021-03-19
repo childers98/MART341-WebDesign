@@ -20,3 +20,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-08
 
 Week 9 Summary - For this week we linked 3 html pages together and showcased everything that we learned in HTML, from tables to styling.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-09
+
+Week 10 Summary - This week we began working with CSS styling and implementing different styles to different elements.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-10
