@@ -1,0 +1,49 @@
+*/*universal*/{
+  font-family: Times;
+  color: white !important;
+
+}
+body/*element*/{
+  background-color: rgb(25,0,10);
+}
+h2 /* selector */{
+  /* declaration */
+  font-family: Brush Script MT;
+  background-color: orange;
+  text-align: center;
+  font-size: 50px;
+}
+p{
+  color: rgb(200, 129, 222,);
+  font-size: 17px;
+}
+.intro-text/*class*/{
+  background-color: #08ff00;
+}
+#hair-type-pictures{
+  background-color: rgb(125, 12, 105, 0.7);
+}
+#curl-types{
+  background-color:orange;
+}
+.dark-orange{
+  background-color: darkorange;
+  width: 45px;
+  height: 135px;
+  position: absolute;
+  left: 700px;
+  top: 0;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+/*more specific rules take precedent
+Last is what applies
+!important things will overule anything
+three common ways for specifying color:
+color names
+RGB
+Hex Values */
