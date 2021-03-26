@@ -1,0 +1,59 @@
+*{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+h2{
+  font-family: 'Lobster', cursive;
+  font: lobster, cursive, arial;
+  /*font: didot, verdana, arial;*/
+  font-size: 20pt;
+  font-kerning: auto; /*not usually neccessary*/
+  letter-spacing: 10pt; /*can be adjusted with points the usual*/
+  word-spacing: normal; /*same as above*/
+  text-align: center;
+  color: darkviolet;
+}
+
+p{
+  font: roman, arial;
+  font-size: 85%; /*could also do .75em*/
+  line-height: normal;
+}
+
+.one{
+  font-weight: bold; /* other options lighter, normal, bolder and excepts hundreds through 900*/
+}
+
+.two{
+  font: Noto Sans HK, sans-serif, arial; /*other normal and italic*/
+}
+
+.button:hover{
+  text-transform: lowercase;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+#id{
+  vertical-align: text-top;/*not working*/
+}
+
+/* Pseudo-element selector example */
+p::first-letter {
+  font-size: 145%;
+}
+
+
+/* OTHER FORMS OF ALIGNMENT
+
+vertical-align: baseline(default), top, text-top, middle, bottom, text-bottom;
+text-indent: normal, or points, etc.;
+      <span style="font-size: medium; text-transform:uppercase;"></span>
+
+*/
+
+
+
+/* Pseudo-class selector example:
+p:hover {}
+*/
