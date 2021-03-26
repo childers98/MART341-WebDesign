@@ -23,3 +23,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-09
 
 Week 10 Summary - This week we began working with CSS styling and implementing different styles to different elements.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-10
+
+Week 11 Summary - Continuing our work with CSS styling we worked with adding and messing with different fonts.  Also messed around with spacing within the words and alignment.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-11
