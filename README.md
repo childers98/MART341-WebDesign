@@ -26,3 +26,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-10
 
 Week 11 Summary - Continuing our work with CSS styling we worked with adding and messing with different fonts.  Also messed around with spacing within the words and alignment.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-11
+
+Week 12 Summary - Working with CSS styling learned and played around with borders and padding.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-12
