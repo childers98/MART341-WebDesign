@@ -1,0 +1,76 @@
+*{
+  background-color: #DCDBF7;
+  text-align: center;
+}
+/*box model*/
+.my-box {
+  width: ;
+  height: ;
+  border: ;
+  padding: ;
+  margin: ;
+}
+.intro{
+  border: 2px dotted #623529;
+  border-radius: 20px;
+  padding: 2em;
+  margin: 1em;
+}
+
+.flowers{
+  border: 2px double;
+  border-style: outset;
+  border-top-color: violet;
+  border-bottom-color: violet;
+  border-right-color: darkviolet;
+  border-left-color: blue;
+  padding: 2em;
+  margin: 1em;
+  display: block;
+}
+h2{
+  text-align: center;
+}
+.header{
+  background-color: gray;
+  position: fixed;
+  top: 0px;
+}
+.orange-square{
+  height: 200px;
+  width: 10px;
+  background-color: orange;
+  float: right;
+
+}
+.top{
+  font-size: 16pt;
+  padding: .25em;
+  background-color: #30D4CD;
+  display: inline-block
+}
+.top:hover{
+  background-color: #9ff6f2;
+}
+.birds-paradise {
+  display: none;
+}
+.flowers:hover .birds-paradise{
+  display: block;
+}
+
+/*3 border properties
+-width
+-style (solid, dashed, dotted, double, inset, outset, groove, ridge, hidden, none)
+-color
+
+3 Main Display Blocks
+-block
+-inline
+-inline-block
+
+Floating
+-left
+-right
+-none
+*/
