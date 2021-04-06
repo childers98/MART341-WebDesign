@@ -11,8 +11,10 @@
   margin: ;
 }
 .intro{
-  border: 2px dotted #623529;
-  border-radius: 20px;
+  border: 2px outset #623529;
+  border-radius: 5px;
+  border-color: darkviolet;
+  border-style: outset;
   padding: 2em;
   margin: 1em;
 }
@@ -20,10 +22,8 @@
 .flowers{
   border: 2px double;
   border-style: outset;
-  border-top-color: violet;
-  border-bottom-color: violet;
-  border-right-color: darkviolet;
-  border-left-color: blue;
+  border-radius: 5px;
+  border-color: darkviolet;
   padding: 2em;
   margin: 1em;
   display: block;
@@ -31,17 +31,22 @@
 h2{
   text-align: center;
 }
+
 .header{
   background-color: gray;
   position: fixed;
   top: 0px;
 }
-.orange-square{
+
+.orange-square{ /*I didn't know which element to make float*/
   height: 200px;
   width: 10px;
   background-color: orange;
   float: right;
+}
 
+.top-of-page{
+  position: fixed;
 }
 .top{
   font-size: 16pt;
@@ -52,11 +57,16 @@ h2{
 .top:hover{
   background-color: #9ff6f2;
 }
+
 .birds-paradise {
   display: none;
 }
 .flowers:hover .birds-paradise{
   display: block;
+}
+
+.sources{
+  display: inline-block;
 }
 
 /*3 border properties
