@@ -6,12 +6,10 @@
 body{
   background-color: #D5C7E2;
 }
-address{
-
-}
 img{
   max-width: 100%;
   height: auto;
+  align: left;
 }
 h2{
   color: #3C224B;
@@ -26,7 +24,7 @@ nav{
   padding: 1.5em 2em;
   text-align: center;
 }
-.link, .sitename{
+.link, .sitename {
   display: inline-block;
   margin: 1em .2em;
   min-width: 6em;
@@ -39,6 +37,37 @@ nav{
 .link:hover{
   background-color: #64367F;
 }
+.links{
+  display: block;
+  text-align: center;
+  color: #3C224B;
+  text-decoration: none;
+}
+.links:hover{
+  background-color: #EBD7F6;
+  text-decoration: none;
+}
+
+/*dropdown menu*/
+.dropdown{
+  display: inline-block;
+  text-decoration: none;
+}
+.dropdown-content{
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  text-decoration: none;
+}
+.dropdown:hover .dropdown-content{
+  display: block;
+  text-decoration: none;
+}
+.dropdown-item:hover, .dropdown-item:hover {
+  color: white;
+  background-color: #EBD7F6;
+  text-decoration: none;
+}
 
 .main-area{
   margin-top: 5em;
@@ -46,13 +75,12 @@ nav{
   line-height: 1.5em;
 }
 
-
-
+/*back to top - end of page*/
 .back-to-top{
   color:white;
 }
 .back-to-top:hover{
-  color: #967BAE;
+  color: #3C224B;
 }
 
 

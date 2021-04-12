@@ -20,8 +20,20 @@
         <a class="link" href="../week-13.html">Homepage</a>
         <a class="link" href="about.html">About</a>
         <a class="link" href="gallery.html">Gallery</a>
-        <a class="link" href="#">Contact</a>
-        <!-- &vert; makes divisions-->  <!--also &middot for bullet points and &nbsp for additonal spaces-->
+        <div class="menu-item dropdown">
+          <a class="link" href="#">Contact</a>
+           <div class="dropdown-content">
+              <div class="dropdown-item">
+                 <a class="links" href="https://www.instagram.com/406photographylife/">Photography Page</a>
+               </div>
+              <div class="dropdown-item">
+                <a class="links" href="https://www.instagram.com/406artistlife/">Art Page</a>
+              </div>
+              <div class="dropdown-item">
+                <a class="links" href="https://paigechilders98.wixsite.com/mysite">Other Site</a>
+              </div>
+            </div>
+          </div>
       </nav>
     </div>
 
@@ -29,6 +41,24 @@
       <div class="contact">
         <h2>Contact Us</h2>
       </div>
+      <p>Contanct us by email at <a href="mailto:idk@gmail.com">idk@gmail.com</a>
+      <form class="basic-forms" action="http://www.example.com/subscribe.php" method="get">
+          <h3>Account Creation</h3>
+          <label>
+            <p>Email Address: <input type="text" name="email" placeholder="hello@gmail.com"/> </p>
+            <p> Password: <input type="password" name="password" id="user-password" placeholder="example123"/> </p>
+
+            I Want to Subscribe to...
+            <br/>
+            <input type="checkbox" name="subscribe" value="newsletter" /> Newsletter
+            <br/>
+            <input type="checkbox" name="subscribe" value="coupons/sales" /> Coupons & Sales
+            <br/>
+            <input type="checkbox" name="subscribe" value="none" /> None
+            <br/>
+            <input type="submit" value="Submit" />
+          </label>
+      </form>
 
       <div class="address">
         <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10912.568347518474!2d-113.99088276171199!3d46.860576166274456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x535dcc3413abc31d%3A0x5a5373da5d9ea43c!2s32%20Campus%20Dr%2C%20Missoula%2C%20MT%2059812!5e0!3m2!1sen!2sus!4v1618015450075!5m2!1sen!2sus" width=100% height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -41,7 +71,7 @@
 
       </div>
 
-      <div class="end">
+      <div class="back-to-top">
         <p><a class="back-to-top" href="#">Back to Top</a></p>
       </div>
     </main>
