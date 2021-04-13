@@ -29,3 +29,6 @@ https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-11
 
 Week 12 Summary - Working with CSS styling learned and played around with borders and padding.
 https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-12
+
+Week 13 Summary - Combined 4 pages together and made them look cohesive using CSS styling.
+https://github.com/childers98/MART341-WebDesign/tree/main/Assignment-13
