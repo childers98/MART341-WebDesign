@@ -6,9 +6,9 @@
     <meta name="author" content="Paige Childers">
     <meta name="description" content="Homepage">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="art.js"></script>
     <link type="text/css" rel="stylesheet" href="../css/font.css">
     <link type="text/css" rel="stylesheet" href="../css/style.css">
-    <script src=".pages/art.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <!--font-family: 'Oswald', sans-serif;--><link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
@@ -43,11 +43,49 @@
     <main class="main-area">
       <div class="art">
         <h2>Art</h2>
-          <canvas id="myCanvas" width="400" height="400">
+          <canvas id="myCanvas" width="400" height="400"> Your browser does not support HTML canvas.
           </canvas>
+
+          <script>
+          var c = document.getElementById("myCanvas");
+          var ctx = c.getContext("2d");
+          //circle
+          ctx.beginPath();
+          ctx.arc(350, 45, 40, 0, 2 * Math.PI);
+          ctx.stroke();
+          //square
+          ctx.beginPath();
+          ctx.rect(120, 125, 200, 150);
+          ctx.stroke();
+          //line
+          ctx.moveTo(150, 111);
+          ctx.lineTo(100, 100);
+          ctx.stroke();
+
+          ctx.moveTo(150, 222);
+          ctx.lineTo(200, 100);
+          ctx.stroke();
+
+          ctx.moveTo(150, 333);
+          ctx.lineTo(300, 100);
+          ctx.stroke();
+
+          //image
+          // var img = document.getElementById("smiley");
+          // ctx.drawImage(img, 20, 150);
+          //title
+          ctx.font = "30px Times";
+          ctx.strokeText("Chicken Scratch", 20, 40);
+          // Name
+          ctx.font = "30px Times";
+          ctx.strokeText("Paige Childers", 210, 380);
+          </script>
+
+          <!-- <img id=smiley src="../images/smiley.jpg"> -->
+
       </div>
 
-        <img id="github" src="https://montana-media-arts.github.io/341-web-design-Spring2021-resources/graphics/icons/github-icon.png">
+       <!-- <img id="github" src="https://montana-media-arts.github.io/341-web-design-Spring2021-resources/graphics/icons/github-icon.png">-->
 
       <div class="back-to-top">
         <p><a class="back-to-top" href="#">Back to Top</a></p>
