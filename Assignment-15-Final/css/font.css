@@ -1,0 +1,33 @@
+body{
+
+}
+.header{
+  color: white;
+  font-family: 'Oswald', arial, sans-serif;
+  text-transform: uppercase;/*maybe change*/
+}
+.link{
+    font-family: 'Poppins', impact, sans-serif;
+    font-size:;
+}
+h2{
+    font-family: 'Oswald', arial, sans-serif;
+}
+h3{
+  font-family: 'Oswald', arial, sans-serif;
+}
+p, address{
+  font-family: 'Oswald', arial, sans-serif;
+  font-size: ;
+}
+address{
+    font-family: 'Oswald', arial, sans-serif;
+}
+.basic-forms{
+  font-family: 'Oswald', arial, sans-serif;
+}
+.back-to-top{
+  text-decoration: none;
+  font-weight: none;
+  font-style: uppercase;
+}
