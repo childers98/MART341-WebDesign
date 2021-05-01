@@ -17,12 +17,13 @@ h2{
   color: #3C224B;
 }
 h3{
-
+  color: #3C224B;
+  text-align: center;
 }
 h4{
   text-align: center;
-}
 
+}
 nav{
   position: fixed;
   top: 0px;
@@ -87,10 +88,28 @@ label{
   text-decoration: none;
 }
 
+/*media sites*/
+.contact-info{
+  color: #AB3EE7;
+  text-decoration: none;
+}
+.contact-info:hover{
+  color: #8021B5;
+  text-decoration: underline;
+}
+.contact-info:visted{
+  color: #8021B5;
+  text-decoration: none;
+}
+
 .main-area{
   margin-top: 5em;
   padding: 2em;
   line-height: 1.5em;
+}
+
+.gallery{
+  text-align: center;
 }
 
 /*back to top - end of page*/
